@@ -11,7 +11,6 @@ class HalloKurs{
         System.out.println("Bergfest");
 
 
-
-
+		System.out.println("Why this don't running ?");
 	}
 }
