@@ -11,8 +11,7 @@ class HalloKurs{
         System.out.println("Corona an alle, Freibert gibt aus");
         System.out.println("Bergfest");
         System.out.println("Ohne Meldung.");
-
-
 		System.out.println("Why this don't running ?");
+		System.out.println("kek");
 	}
 }
