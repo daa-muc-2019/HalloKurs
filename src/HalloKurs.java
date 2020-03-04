@@ -4,8 +4,6 @@ class HalloKurs{
 		System.out.println("Hallo an alle!");
 		System.out.println("Hallo Dozent!");
 		System.out.println("Python ist besser!\nKein Scheiß!");
-		System.out.println("Freibert gibt aus");
-
 
 	}
 }
