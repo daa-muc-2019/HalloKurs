@@ -20,6 +20,7 @@ class HalloKurs{
 		System.out.println("Freibier für ALLE");
 		System.out.println("Why are u Runnin!??!");
 		System.out.println("Test");
-		System.out.println("Test Test")
+		System.out.println("Test Test");
+		System.out.println("<UwU>,,    (๑òᆺó๑)    ");
 	}
 }
