@@ -15,6 +15,7 @@ class HalloKurs{
 		System.out.println("kek");
 		System.out.println("LOL");
 		System.out.println("Freibier für ALLE");
+		System.out.println("Why are u Runnin!??!");
 
 
 	}
