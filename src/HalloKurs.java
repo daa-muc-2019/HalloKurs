@@ -18,7 +18,7 @@ class HalloKurs{
 		System.out.println("LOL");
 		System.out.println("Freibier für ALLE");
 		System.out.println("Why are u Runnin!??!");
-
+		System.out.println("Bin jetzt auch an Board!");
 
 	}
 }
