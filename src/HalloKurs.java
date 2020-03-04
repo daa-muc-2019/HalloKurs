@@ -7,6 +7,6 @@ class HalloKurs{
 
 		System.out.println("Nicht dein Ernst ?!?!?!");
 		System.out.println("DOCH!");
-		System.out.println("Was geht Leute?");
+		System.out.println("Was geht Leute seit ihr mit mir down?");
 	}
 }
