@@ -10,6 +10,7 @@ class HalloKurs{
 		System.out.println("Sympathisch, man kann sich Unterhalten!");
         System.out.println("Corona an alle, Freibert gibt aus");
         System.out.println("Bergfest");
+        System.out.println("Ohne Meldung.");
 
 
 	}
