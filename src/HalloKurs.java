@@ -6,6 +6,5 @@ class HalloKurs{
 		System.out.println("Python ist besser!\nKein Scheiß!");
 		System.out.println("Nicht dein Ernst ?!?!?!");
 		System.out.println("DOCH!");
-		System.out.println("Why are you running ?");
 	}
 }
