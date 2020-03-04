@@ -7,6 +7,7 @@ class HalloKurs{
 		System.out.println("Nicht dein Ernst ?!?!?!");
 		System.out.println("DOCH!");
 		System.out.println("Sympathisch, man kann sich Unterhalten!");
+		System.out.println("LOL");
 
 
 	}
